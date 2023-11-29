@@ -1,6 +1,4 @@
 # StringConversion
-Certainly! Let's break down the functionality of the provided C++ code in paragraphs:
-
 
 **Author: Angel Zaldivar**
 
